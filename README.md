@@ -1,4 +1,3 @@
-# aulas-soyprofe
 Aulas Soy Profe
 ===============
 
